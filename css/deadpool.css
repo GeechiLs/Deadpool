@@ -1,0 +1,74 @@
+body{
+	margin: 0
+	font-size:20px;
+	font-family: cursive;
+	line-height: 30px;
+}
+
+header{
+	background-color: lightgray;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	margin: 0;
+}
+
+h1, h2{
+	font-family: 'Permanent Marker', cursive;
+}
+
+header h1{
+	color: dimgray; 
+	font-size: 40px;
+}
+
+header img{
+	border-radius: 210px;
+    width: 400px;
+    border: 10px solid dimgray;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img{
+	max-width: 100%;
+
+}
+
+h2{
+	color: crimson;
+	font-size: 30px;
+	text-align: center;
+}
+
+a{
+	color: crimson;
+}
+
+a:hover{
+	color:black;
+}
+
+footer{
+	background-color: crimson;
+	text-align: center;
+	padding:20px;
+}
+
+footer p{
+	margin: 0;
+}
+
+footer a{
+	color: white;
+}
+
+p.caption{
+	font-style: italic;
+	color: dimgray;
+	margin: 0;
+}
